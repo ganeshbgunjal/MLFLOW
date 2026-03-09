@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/2.%20Course/15%20MLflow/mlruns/0/0ab61d3bcf1d4e3b8953f255a06b2d37/artifacts
+end_time: 1773059407272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ab61d3bcf1d4e3b8953f255a06b2d37
+run_name: tasteful-gnu-975
+run_uuid: 0ab61d3bcf1d4e3b8953f255a06b2d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773059399847
+status: 3
+tags: []
+user_id: Administrator
